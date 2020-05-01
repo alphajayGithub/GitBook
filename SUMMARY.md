@@ -1,7 +1,6 @@
 # Table of contents
 
-* [quantRoadKISS](README.md)
-* [Summary](summary.md)
-* [ch0](ch0/README.md)
-  * [preview](ch0/preface.md)
+* [目录](summary.md)
+* [预览章](ch0/README.md)
+  * [预览节](ch0/preface.md)
 
