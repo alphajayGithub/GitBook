@@ -1,4 +1,5 @@
-# quantRoadKISS
+# GitBook
+`
+© copyRight 2020, yueshen
 
-Keep it\(way of being quant\) simple and stupid
 
