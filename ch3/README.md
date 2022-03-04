@@ -1,2 +1,3 @@
-# Ch3：AI/ML/DL
+# ch3
 
+© copyRight 2020, yueshen
