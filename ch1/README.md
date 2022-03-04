@@ -1,3 +1,3 @@
 # ch1
 
-© copyRight 2020, yueshen
+:)
