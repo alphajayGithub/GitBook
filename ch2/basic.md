@@ -22,7 +22,7 @@ Most deep learning algorithms are based on an optimization algorithm called
 
 what do we mean by learning?
 
-> A computer program is said to learn from experience E with respect to someclass of tasksTand performance measureP, if its performance at tasks in T, asmeasured by P, improves with experience E.
+> A computer program is said to learn from experience E with respect to someclass of tasks T and performance measure P, if its performance at tasks in T, as measured by P, improves with experience E.
 
 E -> Data Set； supervised/unsupervised
 
