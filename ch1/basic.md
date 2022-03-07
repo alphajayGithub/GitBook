@@ -25,20 +25,15 @@ Lary Wasserman - 《All of Statistics》
 概率论是统计推断的基础，在给定数据生成过程下观测、研究数据的性质；
 而统计推断则根据观测的数据，反向思考其数据生成过程。预测、分类、聚类、估计等，都是统计推断的特殊形式，强调对于数据生成过程的研究。
 
-> 作者：Paper King
-> 链接：https://www.zhihu.com/question/20269390/answer/1721739621
-> 来源：知乎
-> 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+> 作者：Paper King  链接：https://www.zhihu.com/question/20269390/answer/1721739621
 
-
-![](https://upload-images.jianshu.io/upload_images/7600498-c42cffe634e59b69.png?imageMogr2/auto-orient/strip|imageView2/2/w/600/format/webp)
+![](../resource/pic/2022-03-07_%E6%A6%82%E7%8E%87%E4%B8%8E%E7%BB%9F%E8%AE%A1%E6%8E%A8%E6%96%AD.jpg)
 
 **似然估计**
 
 隔壁老王去办事 -> 用“原因的可能性”和“结果的可能性”的“先后顺序”及“条件关系”来理解
 
-> 先验分布、后验分布、似然估计这几个概念是什么意思，它们之间的关系是什么？ - Agenter的回答 - 知乎
-https://www.zhihu.com/question/24261751/answer/158547500
+> [先验分布、后验分布、似然估计这几个概念是什么意思，它们之间的关系是什么？ - Agenter的回答 - 知乎](https://www.zhihu.com/question/24261751/answer/158547500)
 
 
 Probabiity（概率）：给定某一参数值，求某一结果的可能性
