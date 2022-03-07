@@ -53,6 +53,7 @@ from: [潘老师肿瘤临床设计的个人空间](https://space.bilibili.com/61
 
 > [似然和极大似然估计，看一个动画，就全明白了 - 知乎](https://www.zhihu.com/zvideo/1479439829847388160)
 
+> [一个视频让你明白边缘概率密度，边缘分布函数_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV16L4y1q7MW?from=search&seid=13455195356200647230)
 
 # basic - 线性代数
 

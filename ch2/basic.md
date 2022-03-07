@@ -1,8 +1,14 @@
 # basic
 
 ## ML定义
+### Overview
+![](http://5b0988e595225.cdn.sohucs.com/images/20180102/7585b43ca14b490b8d2df881cafb775e.jpeg)
+
+> [AI、ML、统计学、数据挖掘之间有什么区别？](https://www.sohu.com/a/214247323_463989)
+
 ### Introduction
 
+![](../resource/pic/2022-03-07_scikitLearnAlgorithms.jpeg)
 Machine learning is essentially a form of applied statistics with increased emphasis on the use of computers to statistically estimate complicated functions and a decreased emphasison proving conﬁdence intervals around these functions;
 
 we therefore present the two central approaches to statistics:
@@ -22,7 +28,7 @@ Most deep learning algorithms are based on an optimization algorithm called
 
 what do we mean by learning?
 
-> A computer program is said to learn from experience E with respect to someclass of tasks T and performance measure P, if its performance at tasks in T, as measured by P, improves with experience E.
+> A computer program is said to learn from experience E with respect to some class of tasks T and performance measure P, if its performance at tasks in T, as measured by P, improves with experience E.
 
 E -> Data Set； supervised/unsupervised
 
