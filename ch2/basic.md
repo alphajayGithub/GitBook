@@ -1,12 +1,11 @@
-# basic
+# basic - ML General
 
-## ML定义
-### Overview
+## Overview
 ![](http://5b0988e595225.cdn.sohucs.com/images/20180102/7585b43ca14b490b8d2df881cafb775e.jpeg)
 
 > [AI、ML、统计学、数据挖掘之间有什么区别？](https://www.sohu.com/a/214247323_463989)
 
-### Introduction
+## Introduction
 ![](../resource/pic/2022-03-07_scikitLearnAlgorithms.jpeg)
 
 Machine learning is essentially a form of applied statistics with increased emphasis on the use of computers to statistically estimate complicated functions and a decreased emphasison proving conﬁdence intervals around these functions;
@@ -24,7 +23,7 @@ Most deep learning algorithms are based on an optimization algorithm called
 
 - stochastic gradient  随机梯度下降
 
-### E T P definition
+## E T P definition
 
 what do we mean by learning?
 
@@ -38,6 +37,7 @@ P -> 准确率
 
 O -> fitting
 
+# basic - 监督算法
 ## P评估和O优化
 
 ## 数据预处理
@@ -57,6 +57,8 @@ O -> fitting
 
 ## KNN
 
+
+# basic - 无监督算法
 ## PCA
 
 ## LSA
