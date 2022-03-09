@@ -31,13 +31,14 @@ what do we mean by learning?
 
 E -> Data Set； supervised/unsupervised
 
-T -> Function Set/Model； 回顾  分类  概率估计
+T -> Function Set/Model； 回归  分类  概率估计
 
 P -> 准确率
 
 O -> fitting
 
 ## P评估和O优化
+
 
 ## 数据预处理
 

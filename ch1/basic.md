@@ -42,6 +42,8 @@ Likelihood（似然）：给定某一结果，求某一参数值的可能性
 
 > [Probability(概率) vs Likelihood(似然) - 简书](https://www.jianshu.com/p/e145aca62111)
 
+>[机器学习中的频率派和贝叶斯派-以极大似然估计和最大后验估计为例 - 知乎](https://zhuanlan.zhihu.com/p/368004790)
+
 **links**
 
 > [统计推断概述 - 简书](https://www.jianshu.com/p/c66d675527b0)
