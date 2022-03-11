@@ -49,7 +49,8 @@ O -> fitting
 
 # basic - 监督算法
 ## 线性回归
-[sklearn.linear_model.LinearRegression — scikit-learn 1.0.2 documentation](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html#sklearn.linear_model.LinearRegression)
+
+> [sklearn.linear_model.LinearRegression — scikit-learn 1.0.2 documentation](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html#sklearn.linear_model.LinearRegression)
 
 See also
 Ridge
@@ -62,13 +63,17 @@ ElasticNet
 Elastic-Net is a linear regression model trained with both l1 and l2 -norm regularization of the coefficients.
 
 
-
 线性回归可视化的重要性
-[什么是安斯库姆Anscombe四重奏？ - 知乎](https://www.zhihu.com/question/67493742)
-[论数据可视化的重要性--从安斯库姆.四重奏和数据恐龙说起 - 知乎](https://zhuanlan.zhihu.com/p/413824758)
+
+> [什么是安斯库姆Anscombe四重奏？ - 知乎](https://www.zhihu.com/question/67493742)
+
+> [论数据可视化的重要性--从安斯库姆.四重奏和数据恐龙说起 - 知乎](https://zhuanlan.zhihu.com/p/413824758)
 
 多项式线性回归
-[Polynomial and Spline interpolation — scikit-learn 1.0.2 documentation](https://scikit-learn.org/stable/auto_examples/linear_model/plot_polynomial_interpolation.html#sphx-glr-auto-examples-linear-model-plot-polynomial-interpolation-py)
+
+> [Polynomial and Spline interpolation — scikit-learn 1.0.2 documentation](https://scikit-learn.org/stable/auto_examples/linear_model/plot_polynomial_interpolation.html#sphx-glr-auto-examples-linear-model-plot-polynomial-interpolation-py)
+
+> [sklearn 的 PolynomialFeatures 的用法 - 李威威 - 博客园](https://www.cnblogs.com/liweiwei1419/p/9715702.html)
 
 ## 逻辑回归
 
