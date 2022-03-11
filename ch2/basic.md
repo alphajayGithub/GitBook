@@ -38,12 +38,37 @@ P -> 准确率
 O -> fitting
 
 ## P评估和O优化
+梯度下降
 
-
+正则化
 ## 数据预处理
+
+## 数据可视化
+
+[12个案例教你用Python玩转数据可视化 !其实可视化真的不难! - 知乎](https://zhuanlan.zhihu.com/p/62776660?from_voters_page=true)
 
 # basic - 监督算法
 ## 线性回归
+[sklearn.linear_model.LinearRegression — scikit-learn 1.0.2 documentation](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html#sklearn.linear_model.LinearRegression)
+
+See also
+Ridge
+Ridge regression addresses some of the problems of Ordinary Least Squares by imposing a penalty on the size of the coefficients with l2 regularization.
+
+Lasso
+The Lasso is a linear model that estimates sparse coefficients with l1 regularization.
+
+ElasticNet
+Elastic-Net is a linear regression model trained with both l1 and l2 -norm regularization of the coefficients.
+
+
+
+线性回归可视化的重要性
+[什么是安斯库姆Anscombe四重奏？ - 知乎](https://www.zhihu.com/question/67493742)
+[论数据可视化的重要性--从安斯库姆.四重奏和数据恐龙说起 - 知乎](https://zhuanlan.zhihu.com/p/413824758)
+
+多项式线性回归
+[Polynomial and Spline interpolation — scikit-learn 1.0.2 documentation](https://scikit-learn.org/stable/auto_examples/linear_model/plot_polynomial_interpolation.html#sphx-glr-auto-examples-linear-model-plot-polynomial-interpolation-py)
 
 ## 逻辑回归
 
