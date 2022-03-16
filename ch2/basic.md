@@ -75,16 +75,35 @@ Elastic-Net is a linear regression model trained with both l1 and l2 -norm regul
 
 > [sklearn 的 PolynomialFeatures 的用法 - 李威威 - 博客园](https://www.cnblogs.com/liweiwei1419/p/9715702.html)
 
+
+> [在B-spline中，如何理解knot和breakpoint？彼此之间联系和区别是什么？ - 知乎](https://www.zhihu.com/question/52199904)
+
+> [分段多项式及样条 - szcf715 - 博客园](https://www.cnblogs.com/szcf715/p/7684877.html)   [样条拟合_百度百科](https://baike.baidu.com/item/%E6%A0%B7%E6%9D%A1%E6%8B%9F%E5%90%88/12726280?fr=aladdin)
+
 ## 逻辑回归
 
 ## 神经网络
 
+
+### 3b1b 神经网络基础讲解
+
+[【官方双语】深度学习之神经网络的结构 Part 1 ver 2.0_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1bx411M7Zx)
+
+[【官方双语】深度学习之梯度下降法 Part 2 ver 0.9 beta_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Ux411j7ri?spm_id_from=333.999.0.0)
+
+[【官方双语】深度学习之反向传播算法 上/下 Part 3 ver 0.9 beta_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV16x411V7Qg)
 
 ## SVM支持向量机
 
 ## 朴素贝叶斯
 
 ## 随机森林
+### XGBoost
+
+[GBDT原理最通俗的解释 - 简书](https://www.jianshu.com/p/9b647afc1cdc)
+
+[XGBoost算法原理 - 简书](https://www.jianshu.com/p/a31091d5acbb)
+
 
 ## KNN
 
