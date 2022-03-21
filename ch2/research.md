@@ -70,3 +70,27 @@
 [【Code】关于 GCN，我有三种写法 - 知乎](https://zhuanlan.zhihu.com/p/139359188)
 
 [【Code】GraphSAGE 源码解析 - 知乎](https://zhuanlan.zhihu.com/p/142205899)
+
+## 苏一 - 知乎
+
+[文章列表](https://www.zhihu.com/people/su-yi-28-30/posts?page=1)
+
+[机器学习笔记（一）：绪论 - 知乎](https://zhuanlan.zhihu.com/p/48432333)
+
+[机器学习笔记（二）：线性模型 - 知乎](https://zhuanlan.zhihu.com/p/49198367)
+
+[机器学习笔记（三）：决策树 - 知乎](https://zhuanlan.zhihu.com/p/50188842)
+
+[机器学习笔记（四）：降维与主成分分析（PCA） - 知乎](https://zhuanlan.zhihu.com/p/50636430)
+
+[机器学习笔记（五）：支持向量机（SVM） - 知乎](https://zhuanlan.zhihu.com/p/51153003)
+
+[机器学习笔记（六）：贝叶斯分类器 - 知乎](https://zhuanlan.zhihu.com/p/51770638)
+
+[机器学习笔记（七）：概率图模型 - 知乎](https://zhuanlan.zhihu.com/p/52241884)
+
+[机器学习笔记（八）：强化学习 - 知乎](https://zhuanlan.zhihu.com/p/52331350)
+
+[机器学习笔记（九）：聚类 - 知乎](https://zhuanlan.zhihu.com/p/53555523)
+
+[深度学习在推荐系统中的应用 - 知乎](https://zhuanlan.zhihu.com/p/60295580)
