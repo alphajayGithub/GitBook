@@ -82,6 +82,10 @@ Elastic-Net is a linear regression model trained with both l1 and l2 -norm regul
 
 ## 逻辑回归
 
+
+[sklearn中的逻辑回归 - banshaohuan - 博客园](https://www.cnblogs.com/banshaohuan/p/13308732.html#13-sklearn%E4%B8%AD%E7%9A%84%E9%80%BB%E8%BE%91%E5%9B%9E%E5%BD%92)
+
+
 ## 神经网络
 
 
@@ -97,7 +101,20 @@ Elastic-Net is a linear regression model trained with both l1 and l2 -norm regul
 
 ## 朴素贝叶斯
 
+###
+判别模型与生成模型
+![](https://pic3.zhimg.com/80/v2-8eeb29ce793a0660450d9fbddf237dfe_720w.jpg)
+判别模型：学习得到条件概率分布 P(y|x) ，即在特征 x 出现的情况下标记 y 出现的概率。
+生成模型：学习得到联合概率分布  P(x,y) ，即特征 x 和标记 y共同出现的概率，然后求条件概率分布。
+
+常见判别模型：k近邻法、感知机、决策树、逻辑回归、线性回归、最大熵模型、支持向量机(SVM)、提升方法、条件随机场（CRF）
+常见生成模型：朴素贝叶斯、隐马尔可夫（em算法）、受限玻耳兹曼机（Restricted Boltzmann Machine，RBM）、自编码器（Autoencoder，AE）、深层信念网络（Deep Belief Network，DBN）、高斯混合模型（GMM）
+
 ## 随机森林
+
+[决策树、熵与最大熵 - 简书](https://www.jianshu.com/p/7da2f6f563f3)
+
+[决策树 - 熵,信息增益的计算 - 苹果提子 - 博客园](https://www.cnblogs.com/okokok/p/6117333.html)
 ### XGBoost
 
 [GBDT原理最通俗的解释 - 简书](https://www.jianshu.com/p/9b647afc1cdc)
@@ -107,6 +124,12 @@ Elastic-Net is a linear regression model trained with both l1 and l2 -norm regul
 
 ## KNN
 
+[机器学习_基于距离的算法KNN与K-Means - 简书](https://www.jianshu.com/p/95a4bcff2198)
+
+
+[K最近邻算法（KNN） - 简书](https://www.jianshu.com/p/a5ab25716c6b)
+
+[深入浅出KNN算法（一） KNN算法原理 - zzzzMing - 博客园](https://www.cnblogs.com/listenfwind/p/10311496.html)
 
 # basic - 无监督算法
 ## PCA
